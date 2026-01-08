@@ -1,4 +1,4 @@
-This is fet-cl/fet-cl.exe builds of FET version 7.6.5
+This repository includes fet-cl/fet-cl.exe builds of FET versions
 
 
 Program description:
